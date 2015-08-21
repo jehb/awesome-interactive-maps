@@ -1,5 +1,7 @@
 # Awesome interactive maps
-A curated list of resources for interactive web map developers.
+A curated list of resources for interactive map developers. This collection focuses primarily on front-end tools and libraries based on JavaScript, HTML, CSS, and similar web technologies.
+
+Two other lists, one for server-side resources, and another for desktop GIS tools, are forthcoming.
 
 ## Core libraries
 
