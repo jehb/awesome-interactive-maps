@@ -7,6 +7,8 @@ Two other lists, one for server-side resources, and another for desktop GIS tool
 
 ## Core libraries
 
+* [Cesium](https://cesiumjs.org/) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin, using WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
+
 ## Tutorials
 
 ## Plugins, extensions, and addons
