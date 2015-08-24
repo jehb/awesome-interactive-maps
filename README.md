@@ -9,6 +9,7 @@ Two other lists, one for server-side resources, and another for desktop GIS tool
 
 * [Cesium](https://cesiumjs.org/) is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin, using WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.
 * [Leaflet](http://leafletjs.com/) is a leading open-source JavaScript library for mobile-friendly interactive maps. Weighing just about 33 KB of JS, it has all the mapping features most developers ever need.
+* [Modest Maps](http://modestmaps.com/) is a small, extensible, and free library for designers and developers who want to use interactive maps in their own projects. It provides a core set of features in a tight, clean package with plenty of hooks for additional functionality.
 
 ## Tutorials
 
